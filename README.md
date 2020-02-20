@@ -1,7 +1,7 @@
 # HubSpot Boilerplate
 
+<p align="center">A HubSpot CMS</p>
 <p align="center">
-  <p align="center">A HubSpot CMS</p>
   <img src="https://img.shields.io/github/downloads/GregoriSoria/hubspot-boilerplate/total" alt="HubSpot Boilerplate Downloads">
   <img src="https://img.shields.io/github/v/release/GregoriSoria/hubspot-boilerplate" alt="HubSpot Boilerplate Version">
   <img src="https://img.shields.io/github/release-date/GregoriSoria/hubspot-boilerplate" alt="HubSpot Boilerplate Release Date">
