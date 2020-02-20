@@ -1,6 +1,6 @@
 {
   "name": "hubspot-boilerplate",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A HubSpot CMS",
   "scripts": {
     "start": "find content/ -name '_locales'  -delete && find content/ -name '*.json' -type f -delete && gulp"
