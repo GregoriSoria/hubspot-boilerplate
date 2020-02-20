@@ -1,0 +1,29 @@
+{
+  "name": "hubspot-boilerplate",
+  "version": "0.0.0",
+  "description": "A HubSpot CMS",
+  "scripts": {
+    "start": "find content/ -name '_locales'  -delete && find content/ -name '*.json' -type f -delete && gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregoriSoria/hubspot-boilerplate.git"
+  },
+  "author": "Grégori Sória",
+  "license": "MIT",
+  "homepage": "https://gregorisoria.github.io/hubspot-boilerplate",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-sass": "^4.0.2",
+    "node-notifier": "^6.0.0",
+    "node-sass": "^4.13.0"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fancy-log": "^1.3.3",
+    "fs": "0.0.1-security",
+    "ftp": "^0.3.10",
+    "sass-mediaquery-singleline": "^1.0.5"
+  }
+}

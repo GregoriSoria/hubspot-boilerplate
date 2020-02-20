@@ -1,0 +1,6 @@
+node_modules
+.env
+content/designs/**/fields.json
+content/designs/**/meta.json
+content/designs/**/_locales
+content/files
