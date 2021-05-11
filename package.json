@@ -16,8 +16,8 @@
     "gulp": "^4.0.2",
     "gulp-clean-css": "^4.2.0",
     "gulp-sass": "^4.0.2",
-    "node-notifier": "^6.0.0",
-    "node-sass": "^4.13.1"
+    "node-notifier": "^8.0.1",
+    "node-sass": "^4.13.0"
   },
   "dependencies": {
     "dotenv": "^8.2.0",
